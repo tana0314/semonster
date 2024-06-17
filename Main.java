@@ -5,7 +5,6 @@ public class Main {
     Player player = new Player();
     player.drawMonsters();
     player.showDeck();
-    // 修正しました
 =======
     System.out.println("SEMONSTER GAME");
     System.out.println("Show a new monster!");
