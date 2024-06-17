@@ -4,5 +4,6 @@ public class Main {
     Player player = new Player();
     player.drawMonsters();
     player.showDeck();
+    // 修正しました
   }
 }
